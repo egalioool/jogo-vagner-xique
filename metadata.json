@@ -1,0 +1,6 @@
+{
+  "name": "Professor Vagner: A Batalha pelo Conhecimento",
+  "description": "RPG de turnos retrô em pixel art onde o Professor Vagner enfrenta alunos bagunceiros usando algoritmos, laços de repetição, poções pedagógicas e o golpe supremo Xique-Xique, Bahia!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
