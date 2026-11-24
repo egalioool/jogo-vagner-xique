@@ -92,7 +92,7 @@ export const TitleScreen: React.FC<TitleScreenProps> = ({
           ) : (
             <>
               <Volume2 className="w-4 h-4 text-emerald-400" />
-              <span>Baião 8-Bit Ativo</span>
+              <span>DJ Rave Ativo</span>
             </>
           )}
         </button>
